@@ -67,3 +67,6 @@ app/run.py
 
 # Vercel
 .vercel
+
+.ipynb_checkpoints/
+.sesskey
